@@ -1,6 +1,6 @@
 # MYSQL-Exploration-Project
 
-Title: Exploring Sales Data with MySQL: A Data Analyst's Portfolio Project
+Title: Sales Data Analysis with MySQL
 
 Description:
 In this project, I explored a sales dataset using MySQL, a popular relational database management system. The dataset contains information about customers, products, sales representatives, and sales orders. The project includes a series of SQL queries that answer various business questions related to sales, such as identifying the highest credit limit given to a customer, determining the top-selling product lines, finding the sales representative with the highest sales, and analyzing the annual sales trend.
